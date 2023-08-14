@@ -1,0 +1,9 @@
+{
+  "welcome": "Welcome to the mortgage calculator",
+  "loanAmount": "What's the loan amount? ex.) 50 for $50",
+  "interestRate": "What's the intereset rate? ex.) 10 for 10%",
+  "positive": "Must enter a positive number",
+  "loanDuration": "What's the loan duration in months? ex.) 3 for 3 months",
+  "again": "Would you like to perform this operation again?(y/n)",
+  "break": "----------------------"
+}
