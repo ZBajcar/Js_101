@@ -1,0 +1,7 @@
+{
+  "win": "You won",
+  "lose": "Computer won",
+  "tie": "It's a tie",
+  "grandWin": "You're the grand winner!",
+  "grandLose": "The computer is the grand winner"
+}
