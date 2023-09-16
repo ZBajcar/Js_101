@@ -1,0 +1,5 @@
+cd ~/environment/JS101/lesson_2
+
+
+
+npx eslint

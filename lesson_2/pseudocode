@@ -1,0 +1,40 @@
+a function that returns the sum of two numbers
+-set function with 2 parameters 
+- add the two parameters
+-get arguments from user
+-print results
+
+
+a function that takes an array of strings, and returns a string that is all 
+those strings concatenated together
+-set function with one parameter
+-set an empty array 
+-filter though array and return the values to the empty array
+-print new array
+
+a method that takes an array of integers, and returns a new array with every 
+other element from the original array, starting with the first element
+-set function with one parameter
+-set an empty array
+-use a filter to use only the even index's
+-push the values to the new array
+-print the new array
+
+a function that takes two arrays of numbers and returns the result of merging 
+the arrays. The elements of the first array should become the elements at the 
+even indexes of the returned array, while the elements of the second array 
+should become the elements at the odd indexes. 
+-set a function with 2 parameters
+-set and empty array
+-filter throught the array arguments one index at a time
+-push the values of one at a time to the empty array
+-print the new array
+
+
+
+
+
+
+
+
+
