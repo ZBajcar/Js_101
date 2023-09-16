@@ -1,0 +1,20 @@
+Object.hasOwnProperty() 'checks the keys of the objecy for a certain one'
+
+('string').substring() 'give the whole string back except the letters before the index u pass to substring
+
+('string).charAt() 'give the letter at the index you provide .charAt
+
+Object.assign(1,2) 'gives the key value pairs from 2 to 1'
+
+('string').slice(1,2) 'gives the string from 1 to 2 and removes the rest
+
+('string).replace(1,2) 'replaces the word 1 with the word 2 in a given string'
+
+[array].slice() 'slice with no input can be used to make an array copy'
+
+[array].flat() 'removes the nested arrays and makes them values in the array'
+
+let today = new Date();
+let currentYear = today.getFullYear(); 'these give you the current year'
+
+" ".repeat(3)  'this will repeat a space 3 times'
